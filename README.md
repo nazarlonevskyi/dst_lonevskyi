@@ -1,2 +1,9 @@
 # dst_lonevskyi
-_Hello World_
+***
+**1.** Run the bonus task using the command:
+
+`python bonustask.py`
+
+**2.** Type
+ 
+`>help`
